@@ -1,1 +1,4 @@
-# obsidian7673.github.io
+# Welcome!
+[About Me](obsidianrose.dev/odin-recipes)
+## Projects
+[odin-recipes](obsidianrose.dev/odin-recipes)
