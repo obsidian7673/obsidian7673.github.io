@@ -1,4 +1,4 @@
 # Welcome!
-[About Me](obsidianrose.dev/odin-recipes)
+[About Me](/obsidian7673)
 ## Projects
-[odin-recipes](obsidianrose.dev/odin-recipes)
+[odin-recipes](/odin-recipes)
